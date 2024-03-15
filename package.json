@@ -1,0 +1,16 @@
+{
+    "name": "your-app-name",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "db": "^6.0.1",
+        "express": "^4.17.1",
+        "mongo": "^0.1.0",
+        "mongodb": "^6.5.0"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "build": "npm run build"
+    }
+}
